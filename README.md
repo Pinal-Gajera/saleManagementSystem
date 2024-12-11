@@ -1,0 +1,1 @@
+Sale Campaign Management System : A Sale Campaign Management System built with Java , MYSQL and Spring Boot, with APIs for dynamic price adjustments, campaign management, and querying pricing history. Features include paginated product listing and real-time sale price calculations.
